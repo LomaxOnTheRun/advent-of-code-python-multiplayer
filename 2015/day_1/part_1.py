@@ -1,6 +1,3 @@
-import re
-
-
 with open("input_l.txt") as input_file:
     data = input_file.read()
 
