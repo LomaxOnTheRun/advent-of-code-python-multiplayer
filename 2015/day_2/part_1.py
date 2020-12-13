@@ -1,6 +1,6 @@
 from itertools import combinations
 
-with open("input_t.txt") as input_file:
+with open("input_l.txt") as input_file:
     data = input_file.read()
 
 #
